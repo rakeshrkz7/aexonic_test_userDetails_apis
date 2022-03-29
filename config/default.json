@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://rkz123:rkz123@devconnector.hdfs3.mongodb.net/userDb?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "5a7d19df574442836819",
+    "githubSecret": "588f1167a4a9f2d96af9612607e9e139611d047c"
+}
